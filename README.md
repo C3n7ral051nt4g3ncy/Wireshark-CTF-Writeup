@@ -35,7 +35,7 @@ The usual thing to to do to analyze a .pcapng file for many people is to open it
 
 Wireshark is not user-friendly in my opinion, trying to find something with Wireshark can take hours or days.
 
-# Analysing Endpoints in Wireshark
+# Analysing Endpoints in Wireshark 🎯
 
 With **GeoIP2**, data can be gathered on all the IP adresses that are present on the packet capture file.
 Viewing all the endpoints is important and can bring some good intelligence.
@@ -49,13 +49,13 @@ We can see below that we can now see geolocation information on IP adresses, cit
 
 <img width="633" src="https://user-images.githubusercontent.com/104733166/189053880-1b9f43c4-eb46-47d1-970d-98e71ddadcd6.png">
 
-# Viewing on a Map
+# Viewing on a Map 🗺️
 This is fantastic and helps understanding better the full IP architecture of the .PCAPNG file.
 This is also a feature of *GeoIP2*
 
 <img width="633" src="https://user-images.githubusercontent.com/104733166/189055352-ec439296-5d1f-4e7c-8575-9347016858ca.png">
 
-# How I got the Flag
+# How I got the Flag 🏴‍☠️
 
 As I stated above, I hate analysing .pcapng files with Wireshark, it's not user friendly, it can take hours to find something.
 With APackets Analyser, you get a better view and understanding of the packet capture file, it's then much easier to find some good intelligence.
@@ -73,11 +73,11 @@ Many people think that only Wireshark can analyse .pcapng files, and that's why 
 
 <img width="633" src="https://user-images.githubusercontent.com/104733166/189057716-e991e578-0305-4a26-a89e-eb9305d41e7c.png">
 
-# Contract Card
+# Contract Card 🃏
 
 <img width="333" src="https://user-images.githubusercontent.com/104733166/189060185-509d00ae-5478-43b6-ae17-1c9728f3c615.png">
 
-# Final thoughts
+# Final thoughts 💭
 Very Good CTF put together by Tiberian Order: https://tiberianorder.com
 
 
