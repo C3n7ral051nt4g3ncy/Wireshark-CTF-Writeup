@@ -1,10 +1,18 @@
-# On the Wire | Tiberian Order 💀
+# [On The Wire CTF Challenge](https://tiberianorder.com/contracts/on-the-wire/) | Created By Tiberian Order 💀
 
-### Wireshark CTF | Writeup <br>
+<br>
+
+<img width="433" src="https://user-images.githubusercontent.com/104733166/189106001-06d91396-950d-40e4-9a84-8b83bd60cdab.png">
+
+## CTF Writeup 📝 <br>
 
 #OSINT #TiberianOrder #CTF #Writeup #Wireshark
 
-# CTF Introduction | Mission 🕵️
+## Level 🎚️
+
+**Tiberian Order** classed the difficulty level as: **Medium**
+
+# CTF Task | Mission 🕵️
 
 Greetings Special Agent K. One of our field agents in Malaysia managed to physically breach the office of a corrupt politician. Doubling as a mole for a Chinese criminal enterprise, mostly smuggling endangered animals. In this case their evil business involves shark fin trade and other exotic food items.
 
@@ -72,10 +80,9 @@ Many people think that only Wireshark can analyse .pcapng files, and that's why 
 # Final thoughts
 Very Good CTF put together by Tiberian Order: https://tiberianorder.com
 
-<img width="233" src="https://user-images.githubusercontent.com/104733166/189060766-99ef7734-5ed2-4df1-baca-99c418777ac2.png">
 
-
-
+<p align="center">
+<img width="233" src="https://user-images.githubusercontent.com/104733166/189060766-99ef7734-5ed2-4df1-baca-99c418777ac2.png"/><img width="233" src="https://user-images.githubusercontent.com/104733166/189107979-85b316ef-78eb-45d3-8019-e7f6ff02a2dc.png"/></p>
 
 
 
