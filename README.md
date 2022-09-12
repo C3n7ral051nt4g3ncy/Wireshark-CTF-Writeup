@@ -1,8 +1,7 @@
 # [On The Wire CTF Challenge](https://tiberianorder.com/contracts/on-the-wire/) | Created By Tiberian Order 💀
 
 <br>
-
-<img width="433" src="https://user-images.githubusercontent.com/104733166/189106001-06d91396-950d-40e4-9a84-8b83bd60cdab.png">
+<img width="433" src="https://user-images.githubusercontent.com/104733166/189721636-13284aef-136d-474e-ab52-38250b84785b.jpg">
 
 ## CTF Writeup 📝 <br>
 
